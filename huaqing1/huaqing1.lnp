@@ -1,0 +1,3 @@
+"asm.o" -ro-base 0x00000000 -entry 0x00000000 -rw-base 0x40000000 -strict -map -xref -callgraph -symbols 
+-info sizes -info totals -info unused -info veneers 
+ -list ".\huaqing1.map" -o "huaqing1.axf"
