@@ -386,9 +386,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>asm.s</FileName>
+              <FileName>mem.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\asm.s</FilePath>
+              <FilePath>.\mem.s</FilePath>
             </File>
           </Files>
         </Group>

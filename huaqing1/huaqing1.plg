@@ -7,3 +7,380 @@ F:\keil\arm-cortex-A-\huaqing1\huaqing1.uvproj
 Project File Date:  04/09/2019
 
 <h2>Output:</h2>
+Build target 'Target 1'
+assembling asm.s...
+asm.s: Warning: A3910W: Old syntax, please use '--via'.
+asm.s: Warning: A3910W: Old syntax, please use '--cpu'.
+asm.s: Warning: A3910W: Old syntax, please use '--apcs'.
+asm.s: Warning: A3910W: Old syntax, please use '--list'.
+asm.s: Warning: A3910W: Old syntax, please use '--list='.
+asm.s: Warning: A3910W: Old syntax, please use '--xref'.
+asm.s(39): error: A1106E: Missing comma
+Target not created
+Build target 'Target 1'
+assembling asm.s...
+asm.s: Warning: A3910W: Old syntax, please use '--via'.
+asm.s: Warning: A3910W: Old syntax, please use '--cpu'.
+asm.s: Warning: A3910W: Old syntax, please use '--apcs'.
+asm.s: Warning: A3910W: Old syntax, please use '--list'.
+asm.s: Warning: A3910W: Old syntax, please use '--list='.
+asm.s: Warning: A3910W: Old syntax, please use '--xref'.
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(9): error: A1147E: Bad shift name
+mem.s(16): warning: A1447W: Missing END directive at end of file, but found a label named END
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(9): error: A1147E: Bad shift name
+mem.s(16): warning: A1447W: Missing END directive at end of file, but found a label named END
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(9): error: A1147E: Bad shift name
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(9): error: A1147E: Bad shift name
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(9): error: A1147E: Bad shift name
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(9): error: A1147E: Bad shift name
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+mem.s(19): error: A1510E: Immediate 0x400000FF cannot be represented by 0-255 and a rotation
+Target not created
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).
+Build target 'Target 1'
+assembling mem.s...
+mem.s: Warning: A3910W: Old syntax, please use '--via'.
+mem.s: Warning: A3910W: Old syntax, please use '--cpu'.
+mem.s: Warning: A3910W: Old syntax, please use '--apcs'.
+mem.s: Warning: A3910W: Old syntax, please use '--list'.
+mem.s: Warning: A3910W: Old syntax, please use '--list='.
+mem.s: Warning: A3910W: Old syntax, please use '--xref'.
+linking...
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--via'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--ro_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--entry'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--rw_base'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--strict'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--map'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--xref'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--callgraph'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--symbols'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--info'.
+huaqing1.axf: Warning: L3910W: Old syntax, please use '--list'.
+"huaqing1.axf" - 0 Error(s), 20 Warning(s).

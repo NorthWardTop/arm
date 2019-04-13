@@ -1,0 +1,67 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000                 area             mycod, code, readonly
+    2 00000000                 code32
+    3 00000000         
+    4 00000000                 entry
+    5 00000000         
+    6 00000000         start
+    7 00000000         ;ldr r1, =0x88 ;r1将放入0x40000000的内容0000000
+    8 00000000         ;ldr r2, =0x123
+    9 00000000         ;mov r3, #0x40000000  ;地址保存到r2中
+   10 00000000         ;swp r1, r2, [r3]
+   11 00000000         ;swp r1, r2, [r3]
+   12 00000000         ;swp r2, r2, [r3] ;交换内存和寄存器
+   13 00000000         ;swp 1,2,[3]
+   14 00000000         ;从以3位地址的内存中取内容放入1,并将2放入3的地址
+   15 00000000         
+   16 00000000         ;ldr 内存->寄存器
+   17 00000000         ;str 寄存器->内存
+   18 00000000         ;mov r1, #0x99
+   19 00000000         ;ldr r3, =0x40000200
+   20 00000000         ;str r1, [r3]
+   21 00000000         ;ldr r4, [r3]
+   22 00000000         ;str r1, [r3, #4]! ;r3+=4
+   23 00000000         ;str r1, [r3], #4  ;r3+4
+   24 00000000         
+   25 00000000         ;连续操作
+   26 00000000 E59F0010        ldr              r0, =0x40000100
+   27 00000004 E3A01011        ldr              r1, =0x11
+   28 00000008 E3A02022        ldr              r2, =0x22
+   29 0000000C E3A03033        ldr              r3, =0x33
+   30 00000010 E3A04044        ldr              r4, =0x44
+   31 00000014 E920001E        stmfd            r0!, {r1-r4}
+   32 00000018         
+   33 00000018         
+   34 00000018                 end
+              40000100 
+Command Line: --debug --liston --xref --cpu=ARM920T --apcs=/interwork -omem.o -
+-predefine="__EVAL SETA 1" mem.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+mycod 00000000
+
+Symbol: mycod
+   Definitions
+      At line 1 in file mem.s
+   Uses
+      None
+Comment: mycod unused
+start 00000000
+
+Symbol: start
+   Definitions
+      At line 6 in file mem.s
+   Uses
+      None
+Comment: start unused
+2 symbols
+329 symbols in table

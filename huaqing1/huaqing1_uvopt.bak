@@ -184,10 +184,10 @@
       <FileType>2</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>23</ColumnNumber>
+      <ColumnNumber>67</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>16</TopLine>
-      <CurrentLine>42</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>18</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\asm.s</PathWithFileName>
       <FilenameWithoutPath>asm.s</FilenameWithoutPath>
@@ -1539,9 +1539,9 @@
       <Documents>
         <Doc>
           <Name>.\asm.s</Name>
-          <ColumnNumber>23</ColumnNumber>
-          <TopLine>16</TopLine>
-          <CurrentLine>42</CurrentLine>
+          <ColumnNumber>67</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>18</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>

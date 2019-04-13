@@ -1,2 +1,2 @@
 Dependencies for Project 'huaqing1', Target 'Target 1': (DO NOT MODIFY !)
-F (.\asm.s)(0x5CAE09BE)(-cpu ARM920T --pd "__EVAL SETA 1" -g -apcs /interwork -list -xref -o "asm.o")
+F (.\mem.s)(0x5CB1D0E9)(-cpu ARM920T --pd "__EVAL SETA 1" -g -apcs /interwork -list -xref -o "mem.o")

@@ -36,7 +36,7 @@ start
 	ldr r1, =0x12010  ;->0x10010
 	bic r1, r1, #0xf << 12
 
-	mov r0
+
 	swp r0, r1, [r2]
 
 
